@@ -11,7 +11,7 @@ labels:
   - Languages
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://makersaid.com/wp-content/uploads/2022/10/check-if-variable-is-is-not-null-in-javascript-768x432.jpg">
+<img width="1000px" class="rounded float-start pe-4" src="https://makersaid.com/wp-content/uploads/2022/10/check-if-variable-is-is-not-null-in-javascript-768x432.jpg">
 Is/Is Not Null in JavaScript from makersaid.com url: https://makersaid.com/check-if-variable-is-is-not-null-in-javascript/
 
 *Exploring JavaScript: A Comparative Analysis and Insights from ES6* Written by https://chat.openai.com/
