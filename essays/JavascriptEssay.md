@@ -52,4 +52,4 @@ JavaScript's evolution, especially with the enhancements brought about by ES6, h
 ## Citations:
 Is/Is Not Null in JavaScript from makersaid.com url: https://makersaid.com/check-if-variable-is-is-not-null-in-javascript/
 
-*Exploring JavaScript: A Comparative Analysis and Insights from ES6* Written by https://chat.openai.com/
+Exploring JavaScript: A Comparative Analysis and Insights from ES6 Written by https://chat.openai.com/
