@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript, the Superior Script"
+title: "Exploring JavaScript: A Comparative Analysis and Insights from ES6"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
@@ -13,9 +13,9 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="https://makersaid.com/wp-content/uploads/2022/10/check-if-variable-is-is-not-null-in-javascript-768x432.jpg">
 
-## Introduction
-
 JavaScript, often referred to as the "language of the web," has transformed from a simple scripting language to a versatile and powerful programming language. This essay delves into the characteristics of JavaScript, comparing it with other programming languages, particularly with insights from the ES6 (ECMAScript 2015) module. 
+
+
 
 ## Comparative Analysis: JavaScript and Other Languages
 
