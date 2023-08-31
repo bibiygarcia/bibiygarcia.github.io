@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript, the Superior Script"
+title: "JavaScript, the Superior Script"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
@@ -12,13 +12,10 @@ labels:
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="https://makersaid.com/wp-content/uploads/2022/10/check-if-variable-is-is-not-null-in-javascript-768x432.jpg">
-Is/Is Not Null in JavaScript from makersaid.com url: https://makersaid.com/check-if-variable-is-is-not-null-in-javascript/
-
-*Exploring JavaScript: A Comparative Analysis and Insights from ES6* Written by https://chat.openai.com/
 
 ## Introduction
 
-JavaScript, often referred to as the "language of the web," has transformed from a simple scripting language to a versatile and powerful programming language. This essay delves into the characteristics of JavaScript, comparing it with other programming languages, particularly with insights from the ES6 (ECMAScript 2015) module. Additionally, it evaluates JavaScript's suitability for software engineering and reflects on the "athletic" style of software engineering education. 
+JavaScript, often referred to as the "language of the web," has transformed from a simple scripting language to a versatile and powerful programming language. This essay delves into the characteristics of JavaScript, comparing it with other programming languages, particularly with insights from the ES6 (ECMAScript 2015) module. 
 
 ## Comparative Analysis: JavaScript and Other Languages
 
@@ -50,4 +47,8 @@ The ES6 module (ECMAScript 2015) played a pivotal role in modernizing JavaScript
 
 ## Conclusion:
 
-JavaScript's evolution, especially with the enhancements brought about by ES6, has positioned it as a versatile programming language. Its comparison with other languages highlights its unique features and challenges. From a software engineering perspective, JavaScript offers a valuable toolset but demands thoughtful consideration of its strengths and weaknesses. Additionally, the "athletic" style of software engineering, as exemplified by WODs, presents a dynamic and challenging approach to learning that can be both stressful and highly rewarding.
+JavaScript's evolution, especially with the enhancements brought about by ES6, has positioned it as a versatile programming language. Its comparison with other languages highlights its unique features and challenges. From a software engineering perspective, JavaScript offers a valuable toolset but demands thoughtful consideration of its strengths and weaknesses.
+
+## Citations:
+Is/Is Not Null in JavaScript from makersaid.com url: https://makersaid.com/check-if-variable-is-is-not-null-in-javascript/
+*Exploring JavaScript: A Comparative Analysis and Insights from ES6* Written by https://chat.openai.com/
