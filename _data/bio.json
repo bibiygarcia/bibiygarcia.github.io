@@ -77,15 +77,13 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        
-      ]
+      "organization": "a",
+      "website": "b",
+      "position": "c",
+      "startDate": "d",
+      "endDate": "e",
+      "summary": "f",
+      "highlights": []
     }
   ],
   "awards": [
