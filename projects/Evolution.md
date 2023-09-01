@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/CompletedArt/Brandon Paint Animated Square.jpg
-title: "Project1"
+image: img/CompletedArt/SquareRedBrandonSoftLight.jpg
+title: "Evolution"
 date: 2023
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "I plan on experimenting to create more art in different styles and with different techniques to add to my art portfolio."
+  - Photoshop
+  - Digital Art
+summary: "Evolving as artist takes time and practice. I strive to always create and exercise my creativity. Through the use of Adobe Photoshop, I hope to reach new personal heights with my art. In the following photos, I am focusing on experimenting with color and texture. . ."
 ---
 
 <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.png"> <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.gif">
