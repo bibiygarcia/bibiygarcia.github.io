@@ -18,7 +18,7 @@ In contrast to its natural wonders, Hawaii's urban scene is a blend of tradition
 Whether you're capturing the serenity of a secluded beach at sunrise or the energy of a local luau, Hawaii's diverse landscapes and cultures provide an endless source of inspiration for photographers seeking to capture the unique beauty of these islands.
 
 
-<img class="img-fluid" src="../img/ExploringHawaii/20210530_105117.jpg"> Ocean Overlook. Oahu, Hawaii 2022
+<img class="img-fluid" src="../img/ExploringHawaii/20210530_105117.jpg"> Ocean Overlook. Oahu, Hawaii 2021
 
 
 <img class="img-fluid" src="../img/ExploringHawaii/20210729_174451.jpg"> The Caldera. Big Island, Hawaii 2022
