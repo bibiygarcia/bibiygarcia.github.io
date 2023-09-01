@@ -51,8 +51,11 @@
       "website": "",
       "startDate": "2022-06-13",
       "endDate": "2022-08-12",
-      "summary": "Assisted with assigning roles using Remedy (Helix). Assisted with resolving tickets. Streamlined documents in excel and PowerPoint using Visual Basic to decrease the number of hours it takes to produce both quantitative and qualitive metrics for upper management. Created workflow documentation to assist with management of programs and turnover.",
+      "summary": "",
       "highlights": [
+        "Assisted with assigning roles using Remedy (Helix). Assisted with resolving tickets.", 
+        "Streamlined documents in excel and PowerPoint using Visual Basic to decrease the number of hours it takes to produce both quantitative and qualitive metrics for upper management.",
+        "Created workflow documentation to assist with management of programs and turnover.",
         "Performed 320 hours of career development and leadership training."
       ]
     },
@@ -62,30 +65,31 @@
       "website": "",
       "startDate": "2016-11-15",
       "endDate": "2020-11-15",
-      "summary": " Advise on problems installing and repairing electrical power production equipment and aircraft arresting systems. Maintain records. Install and operate electrical power plants, distribution equipment, automatic transfer panels, and aircraft arresting systems. ",
+      "summary": "",
       "highlights": [
         "Interpret data related to electrical power generating systems and aircraft arresting systems to prevent potential weapon systems failure.",
+        "Advise on problems installing and repairing electrical power production equipment and aircraft arresting systems.",
+        "Maintain records. Install and operate electrical power plants, distribution equipment, automatic transfer panels, and aircraft arresting systems.",
         "Maintain and repair electrical power generating equipment, automatic transfer panels, and aircraft arresting systems."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "729 Air Control Squadron Mission Supoort Award Technician of the Month",
+      "title": "729 Air Control Squadron Mission Supoort Award Tech of the Month",
       "date": "July 2019",
       "awarder": "729 ACS",
       "summary": ""
