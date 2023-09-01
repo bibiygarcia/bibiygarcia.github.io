@@ -20,11 +20,14 @@ Whether you're capturing the serenity of a secluded beach at sunrise or the ener
 
 <hr>
 
-<img class="img-fluid" src="../img/ExploringHawaii/20210530_105117.jpg"> Ocean Overlook. Oahu, Hawaii 2021
+<img class="img-fluid" src="../img/ExploringHawaii/BannerMtPhotoSoftLight.jpg"> Under the Stars. Mt. Mauna Kea, Big Island, Hawaii 2022
 
 
-<img class="img-fluid" src="../img/ExploringHawaii/20210729_174451.jpg"> The Caldera. Big Island, Hawaii 2022
+<img class="img-fluid" src="../img/ExploringHawaii/BannerSunsetPhotographer.jpg"> Sunset Photographer. Mt. Mauna Kea, Big Island, Hawaii 2022
 
 
-<img class="img-fluid" src="../img/ExploringHawaii/20210731_191136.jpg"> Sunset at Mt. Mauna Kea. Big Island, Hawaii 2022
+<img class="img-fluid" src="../img/ExploringHawaii/BannerCalderaSun.jpg"> Caldera Sun. Big Island, Hawaii 2022
+
+
+<img class="img-fluid" src="../img/ExploringHawaii/BannerOpenOcean.jpg"> Ocean Overlook. Oahu, Hawaii 2021
 
