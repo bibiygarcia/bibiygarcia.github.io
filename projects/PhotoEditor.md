@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: img/CompletedArt/Brandon Paint Animated Square.jpg
-title: "Project1"
+image: img/CompletedArt/squareIMG_0062.jpg
+title: "PhotoEditor"
 date: 2023
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "I plan on experimenting to create more art in different styles and with different techniques to add to my art portfolio."
+summary: "I would like to practice photo editing and graphic design."
 ---
 
-<img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.png"> <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.gif">
+<img class="img-fluid" src="../img/CompletedArt/bannerIMG_0062dark.jpg">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
