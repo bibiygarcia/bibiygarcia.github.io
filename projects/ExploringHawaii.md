@@ -10,6 +10,7 @@ labels:
   - Photography
 summary: "Hawaii's natural beauty and urban scene offer photographers a captivating canvas to explore. From the lush, emerald green valleys of Kauai to the dramatic volcanic landscapes of the ..."
 ---
+<hr>
 
 Hawaii's natural beauty and urban scene offer photographers a captivating canvas to explore. From the lush, emerald green valleys of Kauai to the dramatic volcanic landscapes of the Big Island, the islands are a paradise for nature enthusiasts. The vibrant colors of tropical flowers, the crystal-clear waters teeming with marine life, and the fiery sunsets over the Pacific Ocean provide endless opportunities for breathtaking shots.
 
@@ -17,6 +18,7 @@ In contrast to its natural wonders, Hawaii's urban scene is a blend of tradition
 
 Whether you're capturing the serenity of a secluded beach at sunrise or the energy of a local luau, Hawaii's diverse landscapes and cultures provide an endless source of inspiration for photographers seeking to capture the unique beauty of these islands.
 
+<hr>
 
 <img class="img-fluid" src="../img/ExploringHawaii/20210530_105117.jpg"> Ocean Overlook. Oahu, Hawaii 2021
 
