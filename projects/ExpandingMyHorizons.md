@@ -19,5 +19,5 @@ Through my artistic pursuits, I've discovered that art is not confined to a canv
 
 <hr>
 
-<img class="img-fluid" src="../img/CompletedArt/BannerOCIVISIONSoftLight.jpg">
+<img class="img-fluid" src="../img/CompletedArt/BannerRedBrandonSoftLight.jpg">
 
