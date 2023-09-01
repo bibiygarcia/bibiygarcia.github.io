@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "bibiygarcia", "url": "https://github.com/bibiygarcia" },
       { "network": "linkedin", "username": "bibiana-y-garcia", "url": "https://www.linkedin.com/in/bibiana-y-garcia/" },
-      { "network": "twitter", "username": "bibiana-y-garcia", "url": "https://www.linkedin.com/in/bibiana-y-garcia/" },
-      { "network": "instagram", "username": "bibiana-y-garcia", "url": "https://www.linkedin.com/in/bibiana-y-garcia/" }
+      { "network": "twitterx", "username": "bibiana-y-garcia", "url": "https://www.linkedin.com/in/bibiana-y-garcia/" },
+      { "network": "instagramx", "username": "bibiana-y-garcia", "url": "https://www.linkedin.com/in/bibiana-y-garcia/" }
     ]
   },
   "interests": [
