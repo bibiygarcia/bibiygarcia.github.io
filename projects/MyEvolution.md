@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/CompletedArt/SquareRedBrandonSoftLight.jpg
-title: "Evolution"
+title: "MEvolution"
 date: 2023
 published: true
 labels:
