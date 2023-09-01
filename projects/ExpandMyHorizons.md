@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/CompletedArt/SquareRedBrandonSoftLight.jpg
 title: "Expand My Horizons"
-date: 2023
+date: 2020 - Present
 published: true
 labels:
   - Photoshop
