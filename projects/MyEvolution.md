@@ -8,7 +8,7 @@ published: true
 labels:
   - Photoshop
   - Digital Art
-summary: "As a self-taught artist, I am working toward gaining experience in Adobe Creative Cloud's applications like Photoshop, Illustrator, and Premier. My passion lies in experimenting with various art mediums..."
+summary: "As a self-taught artist, I am working toward gaining experience in Adobe Creative Cloud's applications like Photoshop, Illustrator, and Premier. My passion lies in experimenting ..."
 ---
 
 <hr>
