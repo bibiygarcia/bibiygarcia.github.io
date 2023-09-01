@@ -4,7 +4,7 @@ type: project
 image: img/CompletedArt/SquareRedBrandonSoftLight.jpg
 title: "Evolution"
 date: 2023
-published: true
+published: false
 labels:
   - Photoshop
   - Digital Art
