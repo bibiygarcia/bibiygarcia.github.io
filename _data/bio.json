@@ -6,7 +6,7 @@
     "email": "bibianag@hawaii.edu",
     "phone": "706-825-6631",
     "website": "https://bibiygarcia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "bibiygarcia", "url": "https://github.com/bibiygarcia" },
@@ -20,7 +20,8 @@
     { "name": "Etomology" },
     { "name": "Programming and Web Design" },
     { "name": "Robotics" },
-    { "name": "Horticulture" }
+    { "name": "Horticulture" },
+    { "name": "Hiking" }
   ],
   "skills": [
     {
@@ -35,7 +36,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
       "startDate": "2021-08-16",
       "endDate": "Present",
@@ -45,31 +46,30 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bank of Hawaii",
+      "position": "Service Management Processes Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-06-13",
+      "endDate": "2022-08-12",
+      "summary": "Assisted with assigning roles using Remedy (Helix). Assisted with resolving tickets. Streamlined documents in excel and PowerPoint using Visual Basic to decrease the number of hours it takes to produce both quantitative and qualitive metrics for upper management. Created workflow documentation to assist with management of programs and turnover.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Performed 320 hours of career development and leadership training."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "United States Air Force",
+      "position": "Electrical Power Production Journeyman",
+      "website": "",
+      "startDate": "2016-11-15",
+      "endDate": "2020-11-15",
+      "summary": " Advise on problems installing and repairing electrical power production equipment and aircraft arresting systems. Maintain records. Install and operate electrical power plants, distribution equipment, automatic transfer panels, and aircraft arresting systems. ",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Interpret data related to electrical power generating systems and aircraft arresting systems to prevent potential weapon systems failure.",
+        "Maintain and repair electrical power generating equipment, automatic transfer panels, and aircraft arresting systems."
       ]
     }
   ],
-  "volunteer": [
+  /*"volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -95,20 +95,33 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ],*/
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "729 Air Control Squadron Mission Supoort Award Technician of the Month",
+      "date": "July 2019",
+      "awarder": "729 ACS",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "729 Air Control Squadron Airman of the 3rd Quarter",
+      "date": "1 July 2019 to 30 Sept 2019",
+      "awarder": "729 ACS",
+      "summary": ""
+    },
+        {
+      "title": "552 Air Control Group Airman of the 3rd Quarter",
+      "date": "1 July 2019 to 30 Sept 2019",
+      "awarder": "552 ACG",
+      "summary": ""
+    },
+    {
+      "title": "552 Air Control Wing Airman of the 3rd Quarter",
+      "date": "1 July 2019 to 30 Sept 2019",
+      "awarder": "552 ACW",
+      "summary": ""
     }
+
   ],
   "references": [
     {
