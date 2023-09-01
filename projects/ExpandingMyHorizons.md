@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/CompletedArt/SquareRedBrandonSoftLight.jpg
-title: "Expand My Horizons"
+title: "Expanding My Horizons"
 date: 2020 - Present
 published: true
 labels:
@@ -19,7 +19,5 @@ Through my artistic pursuits, I've discovered that art is not confined to a canv
 
 <hr>
 
-<img class="img-fluid" src="../img/CompletedArt/OCIVISIONFULL2.png">
-
-<img class="img-fluid" src="../img/CompletedArt/SODACITYFUNKYDERBY.png">
+<img class="img-fluid" src="../img/CompletedArt/BannerOCIVISIONSoftLight.jpg">
 
