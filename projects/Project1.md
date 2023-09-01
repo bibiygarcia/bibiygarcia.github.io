@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/CompletedArt/Brandon Paint Animated Square.jpg
 title: "Project1"
 date: 2023
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "I enjoy creating digital art and plan on experimenting and creating more art in different styles and with different techniques to add to my digital art portfolio."
+summary: "I plan on experimenting to create more art in different styles and with different techniques to add to my art portfolio."
 ---
 
-<img class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.png">
+<img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.png"> <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.gif">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
