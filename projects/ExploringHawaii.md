@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/CompletedArt/Brandon Paint Animated Square.jpg
-title: "Project1"
+image: img/CompletedArt/DSC_4987Square.jpg
+title: "ExploringHawaii"
 date: 2023
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "I plan on experimenting to create more art in different styles and with different techniques to add to my art portfolio."
+summary: "I wish to continue exploring the islands of Hawaii. Documenting and appreciating it's natural and cultural beauty."
 ---
 
 <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.png"> <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.gif">
