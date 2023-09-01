@@ -4,7 +4,7 @@ type: project
 image: img/CompletedArt/squareIMG_0062.jpg
 title: "PhotoEditor"
 date: 2023
-published: true
+published: false
 labels:
   - Lisp
   - GitHub
