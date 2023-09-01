@@ -8,7 +8,7 @@ published: true
 labels:
   - Photoshop
   - Digital Art
-summary: "Evolving as artist takes time and practice. I strive to always create and exercise my creativity. Through the use of Adobe Photoshop, I hope to reach new personal heights with my art. In the following photos, I am focusing on experimenting with color and texture. . ."
+summary: "As a self-taught artist, I am working toward gaining experience in Adobe Creative Cloud's applications like Photoshop, Illustrator, and Premier. My passion lies in experimenting with various art mediums..."
 ---
 
 <hr>
