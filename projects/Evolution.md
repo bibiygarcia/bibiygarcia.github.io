@@ -4,56 +4,21 @@ type: project
 image: img/CompletedArt/SquareRedBrandonSoftLight.jpg
 title: "Evolution"
 date: 2023
-published: false
+published: true
 labels:
   - Photoshop
   - Digital Art
 summary: "Evolving as artist takes time and practice. I strive to always create and exercise my creativity. Through the use of Adobe Photoshop, I hope to reach new personal heights with my art. In the following photos, I am focusing on experimenting with color and texture. . ."
 ---
 
-<img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.png"> <img width="500px" class="img-fluid" src="../img/CompletedArt/Brandon Paint Animated 2.gif">
+<hr>
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+As a self-taught artist, I am working toward gaining experience in Adobe Creative Cloud's applications like Photoshop, Illustrator, and Premier. My passion lies in experimenting with various art mediums, which include but are not limited to: photography, videography, and digital art. My goal is to expand my knowledge and skills as an artist.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Through my artistic pursuits, I've discovered that art is not confined to a canvas or screen; it touches every facet of life. From designing a simple door knob to baking a cake, art plays a role in shaping our world. I aim to use my experiences and creativity to enhance my work and cultivate a brighter future.
 
 <hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<img class="img-fluid" src="../img/CompletedArt/OCIVISIONFULL2.png">
+<img class="img-fluid" src="../img/CompletedArt/SODACITYFUNKYDERBY.png">
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
