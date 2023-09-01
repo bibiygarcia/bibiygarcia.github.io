@@ -31,3 +31,6 @@ Whether you're capturing the serenity of a secluded beach at sunrise or the ener
 
 <img class="img-fluid" src="../img/ExploringHawaii/BannerOpenOcean.jpg"> Ocean Overlook. Oahu, Hawaii 2021
 
+
+<img class="img-fluid" src="../img/ExploringHawaii/BannerOceanSideTown.jpg"> Oceanside Town. Oahu, Hawaii 2021
+
