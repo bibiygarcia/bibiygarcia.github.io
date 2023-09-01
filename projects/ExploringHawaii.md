@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/ExploringHawaii/SquareMtPhotoSoftLight.jpg
-title: "ExploringHawaii"
+title: "Exploring Hawaii"
 date: 2021 - Present
 published: true
 labels:
