@@ -69,7 +69,7 @@
       ]
     }
   ],
-  <!"volunteer": [
+  "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -82,7 +82,7 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     }
-  ],>
+  ],
   "awards": [
     {
       "title": "729 Air Control Squadron Mission Supoort Award Technician of the Month",
