@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "JavascriptOpinionPiece"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-08-29
 published: true
 labels:
   - Javascript
