@@ -14,7 +14,7 @@ labels:
 
 ## Introduction
 
-Smart questions are indispensable tools for smart software engineers. In the world of programming and development, clear, concise, and well-structured inquiries are fundamental to efficient problem-solving and learning. Eric Steven Raymond's article, "How to Ask Questions the Smart Way," outlines principles for crafting smart questions and offers guidance on how to engage effectively with the developer community. In this essay, we will delve into the importance of smart questions for software engineers, evaluate how selected questions align with Raymond's precepts, analyze the responses received, and discuss the insights derived from this experience.
+Smart questions are indispensable tools for smart software engineers. In the world of programming and development, clear, concise, and well-structured inquiries are fundamental to efficient problem-solving and learning. Eric Steven Raymond's article, "[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," outlines principles for crafting smart questions and offers guidance on how to engage effectively with the developer community. In this essay, we will delve into the importance of smart questions for software engineers, evaluate how selected questions align with Raymond's precepts, analyze the responses received, and discuss the insights derived from this experience.
 
 ## The Importance of Smart Questions
 
@@ -36,7 +36,7 @@ Eric S. Raymond's article on "How to Ask Questions the Smart Way" outlines sever
 
 "Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?"
 
-The "smart" question discussed here, which is available at the following link: [Smart Question on Stack Overflow](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co), pertains to understanding the distinction between C++ and C programming languages regarding the behavior of endless loops without side effects. The question seeks clarification and simple examples to illustrate this concept. Let's evaluate this question based on the principles of asking smart questions:
+The "smart" question discussed here, which is available at the following link: [Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co), pertains to understanding the distinction between C++ and C programming languages regarding the behavior of endless loops without side effects. The question seeks clarification and simple examples to illustrate this concept. Let's evaluate this question based on the principles of asking smart questions:
 
 1. **Clarity and Specificity**: The question is clear in its intent – to understand the distinction between C and C++ regarding the undefined behavior associated with endless loops without side effects. It references a specific document (P2809R0) for context, which adds specificity.
 
@@ -84,6 +84,6 @@ Smart questions are indispensable for smart software engineers. They facilitate 
 
 ## Sources:
 
-<a href="http://www.catb.org/esr/faqs/smart-questions.html"><i class="large github icon "></i>How To Ask Questions The Smart Way</a>
-
-<a href="https://stackoverflow.com/"><i class="large github icon "></i>StackOverflow.com</a>
+[AWS S3 NET6: how to create S3 client?](https://stackoverflow.com/questions/77071376/aws-s3-net6-how-to-create-s3-client)
+[Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co)
+[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
