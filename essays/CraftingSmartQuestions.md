@@ -10,7 +10,7 @@ labels:
   - Developer
 ---
 
-<img width = "300" class="rounded float-start pe-4" src="../img/FreeLicense/AdobeStock_305838816.jpeg">
+<img width = "500" class="rounded float-start pe-4" src="../img/FreeLicense/AdobeStock_305838816.jpeg">
 
 ## Introduction
 
