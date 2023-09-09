@@ -30,13 +30,11 @@ Smart questions are essential for several reasons:
 
 ## Analyzing Smart Questions According to ESR's Precepts
 
-Eric S. Raymond's article on "How to Ask Questions the Smart Way" outlines several precepts for asking smart questions. Let's evaluate how the chosen questions adhere to these precepts:
+Eric S. Raymond's article on "[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)" outlines several precepts for asking smart questions. Let's evaluate how the chosen questions adhere to these precepts:
 
-**Question 1:**
+**Question 1:** "Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?"
 
-"Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?"
-
-The "smart" question discussed here, which is available at the following link: [Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co), pertains to understanding the distinction between C++ and C programming languages regarding the behavior of endless loops without side effects. The question seeks clarification and simple examples to illustrate this concept. Let's evaluate this question based on the principles of asking smart questions:
+The "smart" question discussed here, which is available at the following link: ["stackoverflow.com"](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co), pertains to understanding the distinction between C++ and C programming languages regarding the behavior of endless loops without side effects. The question seeks clarification and simple examples to illustrate this concept. Let's evaluate this question based on the principles of asking smart questions:
 
 1. **Clarity and Specificity**: The question is clear in its intent – to understand the distinction between C and C++ regarding the undefined behavior associated with endless loops without side effects. It references a specific document (P2809R0) for context, which adds specificity.
 
@@ -50,11 +48,9 @@ The "smart" question discussed here, which is available at the following link: [
 
 Overall, the selected question aligns well with the principles of asking smart questions. It is clear, specific, and relevant to the audience, and it demonstrates prior research. It seeks to understand a nuanced aspect of C++ and C programming languages, which can benefit developers seeking to write efficient and standards-compliant code.
 
-**Question 2:**
+**Question 2:** "AWS S3 NET6: how to create S3 client?"
 
-"AWS S3 NET6: how to create S3 client?"
-
-The question discussed here, is available at the following link: [AWS S3 NET6: how to create S3 client?](https://stackoverflow.com/questions/77071376/aws-s3-net6-how-to-create-s3-client) The question revolves around configuring a client application and concerns the management of access keys for end-users. It lacks essential details and does not adhere well to the principles of asking smart questions:
+The question discussed here, is available at the following link: ["stackoverflow.com".](https://stackoverflow.com/questions/77071376/aws-s3-net6-how-to-create-s3-client) The question revolves around configuring a client application and concerns the management of access keys for end-users. It lacks essential details and does not adhere well to the principles of asking smart questions:
 
 1. **Describe the problem's symptoms**: The question does not describe any specific problem or symptoms. It merely mentions that the application works but needs to be adapted for customers. Without details on what issues the user is facing or what they are trying to achieve, it's challenging to provide a meaningful answer.
 
