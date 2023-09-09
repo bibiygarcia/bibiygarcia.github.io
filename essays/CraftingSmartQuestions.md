@@ -85,5 +85,8 @@ Smart questions are indispensable for smart software engineers. They facilitate 
 ## Sources:
 
 [AWS S3 NET6: how to create S3 client?](https://stackoverflow.com/questions/77071376/aws-s3-net6-how-to-create-s3-client)
+
 [Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co)
+
 [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
+
