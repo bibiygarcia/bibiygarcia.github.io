@@ -56,4 +56,8 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: 
+
+<a href="http://www.catb.org/esr/faqs/smart-questions.html"><i class="large github icon "></i>How To Ask Questions The Smart Way</a>
+
+<a href="https://stackoverflow.com/"><i class="large github icon "></i>StackOverflow.com</a>
