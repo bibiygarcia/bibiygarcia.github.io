@@ -71,3 +71,11 @@ JavaScript's evolution, especially with the enhancements brought about by ES6, h
 Is/Is Not Null in JavaScript from makersaid.com url: https://makersaid.com/check-if-variable-is-is-not-null-in-javascript/
 
 Exploring JavaScript: A Comparative Analysis and Insights from ES6 Written by https://chat.openai.com/
+
+<hr>
+
+Source: 
+
+<a href="http://www.catb.org/esr/faqs/smart-questions.html"><i class="large github icon "></i>How To Ask Questions The Smart Way</a>
+
+<a href="https://stackoverflow.com/"><i class="large github icon "></i>StackOverflow.com</a>
