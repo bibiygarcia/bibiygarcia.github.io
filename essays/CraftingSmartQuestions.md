@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Crafting Smart Questions"
+title: "Crafting Smart Questions: An Analysis"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-08
 published: true
