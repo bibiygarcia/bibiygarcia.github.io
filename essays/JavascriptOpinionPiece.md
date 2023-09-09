@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring JavaScript: A Comparative Analysis and Insights from ES6"
+title: "JavascriptOpinionPiece"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
