@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions"
+title: "Crafting Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-08
 published: true
@@ -10,7 +10,7 @@ labels:
   - Developer
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://makersaid.com/wp-content/uploads/2022/10/check-if-variable-is-is-not-null-in-javascript-768x432.jpg">
+<img class="rounded float-start pe-4" src="../img/FreeLicense/AdobeStock_305838816.jpeg">
 
 ## Introduction
 
@@ -36,9 +36,7 @@ Eric S. Raymond's article on "How to Ask Questions the Smart Way" outlines sever
 
 "Benefit of endless-loops without side effects in C++ being undefined behavior compared to C?"
 
-The "smart" question discussed here, which is available at the following link: [Smart Question on Stack Overflow](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co), pertains to understanding the distinction between C++ and C programming languages regarding the behavior of endless loops without side effects. The question seeks clarification and simple examples to illustrate this concept.
-
-Let's evaluate this question based on the principles of asking smart questions:
+The "smart" question discussed here, which is available at the following link: [Smart Question on Stack Overflow](https://stackoverflow.com/questions/76960441/benefit-of-endless-loops-without-side-effects-in-c-being-undefined-behavior-co), pertains to understanding the distinction between C++ and C programming languages regarding the behavior of endless loops without side effects. The question seeks clarification and simple examples to illustrate this concept. Let's evaluate this question based on the principles of asking smart questions:
 
 1. **Clarity and Specificity**: The question is clear in its intent – to understand the distinction between C and C++ regarding the undefined behavior associated with endless loops without side effects. It references a specific document (P2809R0) for context, which adds specificity.
 
@@ -54,10 +52,19 @@ Overall, the selected question aligns well with the principles of asking smart q
 
 **Question 2:**
 
+"AWS S3 NET6: how to create S3 client?"
 
-## Responses to Smart Questions
+The question discussed here, is available at the following link: [AWS S3 NET6: how to create S3 client?](https://stackoverflow.com/questions/77071376/aws-s3-net6-how-to-create-s3-client) The question revolves around configuring a client application and concerns the management of access keys for end-users. It lacks essential details and does not adhere well to the principles of asking smart questions:
 
-The responses to smart questions often mirror the smartness of the inquiry. Smart questions elicit helpful, respectful, and informative answers. Responders appreciate the effort put into crafting a thoughtful question and are more likely to engage positively.
+1. **Describe the problem's symptoms**: The question does not describe any specific problem or symptoms. It merely mentions that the application works but needs to be adapted for customers. Without details on what issues the user is facing or what they are trying to achieve, it's challenging to provide a meaningful answer.
+
+2. **Describe your goal, not the step**: The user mentions their goal of making the app work for customers and inquires about the use of credentials. However, this goal is too broad and lacks specific details about what they want to accomplish or any challenges they're encountering.
+
+3. **Describe your problem's symptoms in chronological order**: There is no chronological order or timeline provided in the question. It's unclear what steps have been taken or what has led to the current situation. Providing such context would make it easier for others to understand the issue.
+
+4. **Be explicit about your question**: The question is quite vague and lacks a clear, explicit question. It poses a series of broad inquiries but does not specify a particular problem or a focused question to address.
+
+In summary, the question falls short of adhering to the principles of asking smart questions. It lacks essential details, specificity, and a clear, focused question. To improve the question, the user should provide more context, describe any specific issues they are facing, and ask a concise, well-defined question related to their goal.
 
 ## Insights Gained
 
@@ -72,8 +79,6 @@ Through this analysis, we gain valuable insights:
 4. **Problem Solving and Learning:** Smart questions contribute to effective problem-solving and continuous learning. Engineers should view each question as an opportunity to expand their knowledge.
 
 ## Conclusion
-
-In the world of software engineering, asking smart questions is not just a skill; it's a mindset. Smart questions lead to efficient problem-solving, knowledge transfer, improved collaboration, and enhanced learning. By following the precepts outlined by Eric S. Raymond, software engineers can ask questions that not only benefit themselves but also contribute to the growth of the entire community. The responses to these questions often reflect the smartness of the community and its willingness to support one another. Embracing the practice of asking smart questions is essential for the development of smart software engineers and the continued progress of the field.
 
 Smart questions are indispensable for smart software engineers. They facilitate efficient problem-solving, foster community collaboration, and contribute to individual growth. By adhering to the principles outlined in "How to Ask Questions the Smart Way," engineers can create a culture of effective communication, respect, and professionalism. Asking smart questions not only leads to valuable insights but also enriches the collective knowledge of the software development community.
 
