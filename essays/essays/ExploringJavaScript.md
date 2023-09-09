@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript the Dynamo"
+title: "Exploring JavaScript: A Comparative Analysis and Insights from ES6"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
