@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "JavascriptOpinionPiece"
+title: "Propagation of Laurel Fig (Ficus microcarpa) via plant cuttings"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-29
+date: 2022-12-15
 published: true
 labels:
   - Javascript
