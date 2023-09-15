@@ -6,9 +6,8 @@ title: "Propagation of Laurel Fig (Ficus microcarpa) via plant cuttings"
 date: 2022-12-15
 published: true
 labels:
-  - Javascript
-  - Programming
-  - Languages
+  - Horticulture
+  - Propagation
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="https://makersaid.com/wp-content/uploads/2022/10/check-if-variable-is-is-not-null-in-javascript-768x432.jpg">
