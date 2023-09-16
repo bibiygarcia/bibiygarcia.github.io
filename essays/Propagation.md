@@ -1,6 +1,6 @@
 ---
 layout: redirected
-permalink: /Propagation/
+permalink: /cv/
 redirect_to: /Ficus propagation study.pdf
 type: essay
 title: "Propagation of Laurel Fig (Ficus microcarpa) via plant cuttings"
