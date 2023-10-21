@@ -59,7 +59,14 @@ These four pages make up the Fuel Project Manager and concludes our program prev
 
 ## Summary
 Now we'll summarize what a year's difference would have looked like, when using the Fuel Program Manager. In 2019, the 729 ACS (Air Control Squadron) participated in 6 exercises. If each exercise, had been comparatively the same as the "Raging Bull Exercise", the 729 would have been able to save:
+- 4 to 5 man hours per exercise in calculating and research
+- nearly $33,000 per exercise in fuel budget
+- 9 P.O.L deliveries (fuel deliveries scheduled) per exercise
 
+  This would total annually to:
+- 24 to 30 man hours per year
+- nearly $198,000 per year
+- 54 P.O.L deliveries (fuel deliveries scheduled) per year
 
 ## Running the Numbers
 
