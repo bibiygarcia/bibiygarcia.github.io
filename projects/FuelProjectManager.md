@@ -28,7 +28,7 @@ The Fuel Project Manager was created to increase the efficiency and accuracy of 
 I started this program to help my supervisor calculate fuel numbers more efficiently. This task effected both of us, considering we managed the Fuel Program for our squadron, and had to order fuel for each exercise. When my leadership told me that this program would be shared with other squadrons I decided to increase it's user friendliness by fully automating the calculations and coding the Excel Workbook, so that any squadron could hand-tailor it to their particular needs.
 
 ### Presentation Overview
-To begin, I will first cover the basic features and functions of the program, and I'll show you a preview of what the actual program looks like. Following the preview, I'll summaraize what a year's difference would look like, after using the program. I'll also run through the data we collected to make those summary estimations. And lastly, we'll cover how the program effects mission planning and scheduling in area's like, fuel storage capacity and fuel delivery.
+To begin, I will first cover the basic features and functions of the program, and I'll show you a preview of what the actual program looks like. Following the preview, I'll summaraize what a year's difference would look like, after using the program. And lastly, we'll cover how the program effects mission planning and scheduling in area's like, fuel storage capacity and fuel delivery. I'll also run through the data we collected to make the final summary estimations.
 
 - Features and Functionality
 - Running the Numbers
@@ -36,8 +36,6 @@ To begin, I will first cover the basic features and functions of the program, an
 
 # Features and Functionality
 First and foremost, the Fuel Project Manager is an Excel Document, meaning that anyone who utilizes Microsoft Excel 2016+ can access all the functions of the program. The only catch being, that it must be saved as a Macro-Enabled Worksheet. The program has an inital size of 650 kb and is small enough to be sent through the government's Outlook application, making it easy to share and highly accessible. 
-
-### Program Preview
 
 #### Fuel Projects Home Page
 When first opening the Fuel Project Manager, you will always be taken to the Fuel Projects home page. On the Home Page you'll be able to add and edit projects, set budget and fuel goals, and access the input and output sheets of each project.
