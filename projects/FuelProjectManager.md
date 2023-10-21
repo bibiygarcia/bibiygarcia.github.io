@@ -71,6 +71,20 @@ Now we'll summarize what a year's difference would have looked like, when using 
 - 54 P.O.L deliveries (fuel deliveries scheduled) per year
 
 ## Running the Numbers
+Previously, we would always budget fuel costs off of the worst-case scenario, with all operation and contingency units, running at 100% load 24/7. This method was based off of the respective equipment's technical manual consumption rate, which is always listed at full load. For the Raging Bull Exercise, we used the Fuel Project Manager to calculate the projected scenario, in which we only planned on running operational units and based fuel amounts, not only off the technicals manual's consumptions rate but also historical data and projected mission run times. 
+
+### Method Comparisons
+#### Worst Case Method
+- 24/7 Ops
+- 100% Load
+- Running All Operational and Contingency Units
+
+#### Projected Scenario Method
+- Projected Mission Times
+- Based-off of Historical Data
+- Running Only Operational Units
+
+#### Projected Scenario Method
 
 ## Storage Capacity & Delivery
 
