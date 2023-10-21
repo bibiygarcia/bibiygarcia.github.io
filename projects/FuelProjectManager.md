@@ -33,8 +33,7 @@ To begin, I will first cover the basic features and functions of the program, an
 - Features and Functionality
 - Program Preview
 - Running the Numbers
-- Storage Capacity & Delivery
-- Conclusion
+- Summary & Conclusion
 
 ## Features and Functionality
 First and foremost, the Fuel Project Manager is an Excel Document, meaning that anyone who utilizes Microsoft Excel 2016+ can access all the functions of the program. The only catch being, that it must be saved as a Macro-Enabled Worksheet. The program has an inital size of 650 kb and is small enough to be sent through the government's Outlook application, making it easy to share and highly accessible. 
@@ -96,19 +95,6 @@ Previously, we would always budget fuel costs off of the worst-case scenario, wi
 #### Margin of Error
 - ≈ 2.76%
 
-## In Summary
-Now we'll summarize what a year's difference would have looked like, when using the Fuel Program Manager. In 2019, the 729 ACS (Air Control Squadron) participated in 6 exercises. If each exercise, had been comparatively the same as the "Raging Bull Exercise", the 729 would have been able to save:
-
-#### PER EXERCISE SAVINGS:
-- 4 to 5 man hours per exercise in calculating and research
-- nearly $33,000 per exercise in fuel budget
-- 9 P.O.L deliveries (fuel deliveries scheduled) per exercise
-
-#### ANNUAL SAVINGS:
-- 24 to 30 man hours per year
-- nearly $198,000 per year
-- 54 P.O.L deliveries (fuel deliveries scheduled) per year
-
 ## Storage Capacity & Delivery
 As you can imagine, the number of man-hours and equipment wear can start to add up when you include the number of fuel deliveries required to be scheduled when using previous planning methods. Below you can see how fuel storage capacity and planning can affect the number fuel deliveries.
 
@@ -121,6 +107,19 @@ As you can imagine, the number of man-hours and equipment wear can start to add 
 - TOTAL NEEDED: 2,123 gal = 5 pods
 - STORAGE CAPACITY: 3,150 gal = 7 pods
 - REMAINING NEEDED: 0 gal = 0 P.O.L deliveries required
+
+# In Summary
+Now we'll summarize what a year's difference would have looked like, when using the Fuel Program Manager. In 2019, the 729 ACS (Air Control Squadron) participated in 6 exercises. If each exercise, had been comparatively the same as the "Raging Bull Exercise", the 729 would have been able to save:
+
+#### PER EXERCISE SAVINGS:
+- 4 to 5 man hours per exercise in calculating and research
+- nearly $33,000 per exercise in fuel budget
+- 9 P.O.L deliveries (fuel deliveries scheduled) per exercise
+
+#### ANNUAL SAVINGS:
+- 24 to 30 man hours per year
+- nearly $198,000 per year
+- 54 P.O.L deliveries (fuel deliveries scheduled) per year
 
 ## Conclusion
 To conclude this presentation the Fuel Project Manager allows squadrons to:
