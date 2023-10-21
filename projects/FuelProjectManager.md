@@ -19,11 +19,10 @@ The Fuel Project Manager is a macro-enabled excel spreadsheet that is programmed
 - 552<sup>nd</sup> Air Control Group Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
 - 552<sup>nd</sup> Air Control Wing Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
 
-The following information is a written summary of the presentation I organized for the Wing Commander.
-
+The following information is a written summary of the presentation I organized for the 552<sup>nd</sup> Wing Commander.
 
 # Fuel Project Manager
-The Fuel Project Manager was created to increase the **efficiency** and **accuracy** of planning, budgeting and scheduling fuel operations for exercises and missions.
+The Fuel Project Manager was created to increase the efficiency and accuracy of planning, budgeting and scheduling fuel operations for exercises and missions.
 
 ## Intro
 I started this program to help my supervisor calculate fuel numbers more efficiently. This task effected both of us, considering we managed the Fuel Program for our squadron, and had to order fuel for each exercise. When my leadership told me that this program would be shared with other squadrons I decided to increase it's user friendliness by fully automating the calculations and coding the Excel Workbook, so that any squadron could hand-tailor it to their particular needs.
@@ -33,7 +32,6 @@ To begin, I will first cover the basic features and functions of the program, an
 
 - Features and Functionality
 - Program Preview
-- Summary
 - Running the Numbers
 - Storage Capacity & Delivery
 - Conclusion
@@ -88,6 +86,7 @@ Previously, we would always budget fuel costs off of the worst-case scenario, wi
 > [!NOTE]
 > The numbers viewed here are based off of the **gallon amount** of fuel that was used during the Raging Bull Exercise.
 > While the calculations are based off of the actual number of **generator hours** ran during Raging Bull.
+
 #### Raging Bull Data
 - $5,708.74 ( 1,982.2 gal )
 
@@ -110,9 +109,24 @@ Now we'll summarize what a year's difference would have looked like, when using 
 - nearly $198,000 per year
 - 54 P.O.L deliveries (fuel deliveries scheduled) per year
 
-
 ## Storage Capacity & Delivery
+As you can imagine, the number of man-hours and equipment wear can start to add up when you include the number of fuel deliveries required to be scheduled when using previous planning methods. Below you can see how fuel storage capacity and planning can affect the number fuel deliveries.
+
+#### Worst Case Method 
+- TOTAL NEEDED: 13,553.6 gal = 31 pods
+- STORAGE CAPACITY: 3,150 gal = 7 pods
+- REMAINING NEEDED: 10,403.6 gal = 9 P.O.L scheduled deliveries minimum required
+
+#### Projected Scenario Method
+- TOTAL NEEDED: 2,123 gal = 5 pods
+- STORAGE CAPACITY: 3,150 gal = 7 pods
+- REMAINING NEEDED: 0 gal = 0 P.O.L deliveries required
 
 ## Conclusion
+To conclude this presentation the Fuel Project Manager allows squadrons to:
+- Budget Accurately
+- Utilize Resources Efficiently
+- Plan and Execute Missions Effectively
+
 
 
