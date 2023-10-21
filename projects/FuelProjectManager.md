@@ -11,7 +11,7 @@ labels:
 summary: "The Fuel Project Manager is a macro-enabled excel sheet that is programmed to assist in calculating and estimating fuel consumption and cost for a mission."
 ---
 
-## Statement
+## Personal Statement
 
 The Fuel Project Manager is a macro-enabled excel spreadsheet that is programmed to assist in calculating and estimating fuel consumption and cost for a given mission. It's primary function is to be used as historical data for mission planning, as well as to be used to calculate fuel usage. I completed this project and presented it to the 552nd Wing Commander in December, 2019. During the creation and post completion of this project I received multiple awards for my efforts including: 
 - 729<sup>th</sup> Air Control Squadron Mission Support Award Tech of the Month (July 2019)
