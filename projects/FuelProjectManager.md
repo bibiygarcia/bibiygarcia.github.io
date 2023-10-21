@@ -21,10 +21,10 @@ The Fuel Project Manager is a macro-enabled excel spreadsheet that is programmed
 
 The following information is a written summary of the presentation I organized for the 552<sup>nd</sup> Wing Commander.
 
-# Fuel Project Manager
+# The Fuel Project Manager
 The Fuel Project Manager was created to increase the efficiency and accuracy of planning, budgeting and scheduling fuel operations for exercises and missions.
 
-## Intro
+## Introduction
 I started this program to help my supervisor calculate fuel numbers more efficiently. This task effected both of us, considering we managed the Fuel Program for our squadron, and had to order fuel for each exercise. When my leadership told me that this program would be shared with other squadrons I decided to increase it's user friendliness by fully automating the calculations and coding the Excel Workbook, so that any squadron could hand-tailor it to their particular needs.
 
 ## Presentation Overview
