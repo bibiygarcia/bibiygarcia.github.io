@@ -37,7 +37,7 @@ To begin, I will first cover the basic features and functions of the program, an
 # Features and Functionality
 First and foremost, the Fuel Project Manager is an Excel Document, meaning that anyone who utilizes Microsoft Excel 2016+ can access all the functions of the program. The only catch being, that it must be saved as a Macro-Enabled Worksheet. The program has an inital size of 650 kb and is small enough to be sent through the government's Outlook application, making it easy to share and highly accessible. 
 
-## Program Preview
+### Program Preview
 
 #### Fuel Projects Home Page
 When first opening the Fuel Project Manager, you will always be taken to the Fuel Projects home page. On the Home Page you'll be able to add and edit projects, set budget and fuel goals, and access the input and output sheets of each project.
