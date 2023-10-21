@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PoinsettiaPhotos/PoinsettiaStockPhoto.jpg
+image: img/FuelProjectManagerImages/Square Truck.jpg
 title: "Fuel Project Manager"
 date: 2019
 published: true
