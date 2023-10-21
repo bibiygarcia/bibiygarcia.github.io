@@ -14,10 +14,10 @@ summary: "The Fuel Project Manager is a macro-enabled excel sheet that is progra
 ## Statement
 
 The Fuel Project Manager is a macro-enabled excel spreadsheet that is programmed to assist in calculating and estimating fuel consumption and cost for a given mission. It's primary function is to be used as historical data for mission planning, as well as to be used to calculate fuel usage. I completed this project and presented it to the 552nd Wing Commander in December, 2019. During the creation and post completion of this project I received multiple awards for my efforts including: 
-- 729th Air Control Squadron Mission Support Award Tech of the Month (July 2019)
-- 729th Air Control Squadron Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
-- 552nd Air Control Group Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
-- 552nd Air Control Wing Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
+- 729<sup>th</sup> Air Control Squadron Mission Support Award Tech of the Month (July 2019)
+- 729<sup>th</sup> Air Control Squadron Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
+- 552<sup>nd</sup> Air Control Group Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
+- 552<sup>nd</sup> Air Control Wing Airman of the 3rd Quarter (1 Jul 2019 - 30 Sep 2019)
 
 The following information is a written summary of the presentation I organized for the Wing Commander.
 
@@ -57,7 +57,47 @@ From the input page, you can open the project output. In the project output, you
 
 These four pages make up the Fuel Project Manager and concludes our program preview.
 
-## Summary
+# Running the Numbers
+Previously, we would always budget fuel costs off of the worst-case scenario, with all operation and contingency units, running at 100% load 24/7. This method was based off of the respective equipment's technical manual consumption rate, which is always listed at full load. For the Raging Bull Exercise, we used the Fuel Project Manager to calculate the projected scenario, in which we only planned on running operational units and based fuel amounts, not only off the technicals manual's consumptions rate but also historical data and projected mission run times. 
+
+> [!NOTE]
+> The following numbers are based off the 729 ACS's, 2019 Raging Bull Exercise. All estimated costs are based off of the 2019 Fiscal Year Fuel Cost of $2.88 per gallon.
+
+## Method Comparisons
+#### Worst Case Method
+- 24/7 Ops
+- 100% Load
+- Running All Operational and Contingency Units
+
+#### Projected Scenario Method
+- Projected Mission Times
+- Based-off of Historical Data
+- Running Only Operational Units
+
+## Estimation Comparisons
+#### Worst Case Scenario Estimation
+- $39,034.37 ( 13,553.6 gal )
+
+#### Projected Scenario Estimation
+- $6,114.24 ( 2,123 gal )
+
+#### Difference in Savings
+- $32,920.13 ( 11,430.6 gal )
+
+## Calculating Margin of Error
+> [!NOTE]
+> The numbers viewed here are based off of the **gallon amount** of fuel that was used during the Raging Bull Exercise.
+> While the calculations are based off of the actual number of **generator hours** ran during Raging Bull.
+#### Raging Bull Data
+- $5,708.74 ( 1,982.2 gal )
+
+#### Fuel Program Manager Estimations Based on Data
+- $5,551.37 ( 1,927.55 gal)
+
+#### Margin of Error
+- ≈ 2.76%
+
+## In Summary
 Now we'll summarize what a year's difference would have looked like, when using the Fuel Program Manager. In 2019, the 729 ACS (Air Control Squadron) participated in 6 exercises. If each exercise, had been comparatively the same as the "Raging Bull Exercise", the 729 would have been able to save:
 
 #### PER EXERCISE SAVINGS:
@@ -70,21 +110,6 @@ Now we'll summarize what a year's difference would have looked like, when using 
 - nearly $198,000 per year
 - 54 P.O.L deliveries (fuel deliveries scheduled) per year
 
-## Running the Numbers
-Previously, we would always budget fuel costs off of the worst-case scenario, with all operation and contingency units, running at 100% load 24/7. This method was based off of the respective equipment's technical manual consumption rate, which is always listed at full load. For the Raging Bull Exercise, we used the Fuel Project Manager to calculate the projected scenario, in which we only planned on running operational units and based fuel amounts, not only off the technicals manual's consumptions rate but also historical data and projected mission run times. 
-
-### Method Comparisons
-#### Worst Case Method
-- 24/7 Ops
-- 100% Load
-- Running All Operational and Contingency Units
-
-#### Projected Scenario Method
-- Projected Mission Times
-- Based-off of Historical Data
-- Running Only Operational Units
-
-#### Projected Scenario Method
 
 ## Storage Capacity & Delivery
 
