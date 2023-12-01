@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Bibiana Garcia",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/99704806?v=4",
+    "email": "bibianag@hawaii.edu",
+    "phone": "706-825-6631",
+    "website": "https://bibiygarcia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "bibiygarcia", "url": "https://github.com/bibiygarcia" },
+      { "network": "linkedin", "username": "bibiana-y-garcia", "url": "https://www.linkedin.com/in/bibiana-y-garcia/" }
+    ]
+  },
+  "interests": [
+    { "name": "Digital and Studio Art" },
+    { "name": "Photography and Videography" },
+    { "name": "Programming and Web Design" },
+    { "name": "Robotics" },
+    { "name": "Horticulture" },
+    { "name": "Hiking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Visual Basic", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows 11", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-16",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Bank of Hawaii",
+      "position": "Service Management Processes Intern",
+      "website": "",
+      "startDate": "2022-06-13",
+      "endDate": "2022-08-12",
+      "summary": "",
+      "highlights": [
+        "Assisted with assigning roles using Remedy (Helix).", 
+        "Assisted with resolving tickets.", 
+        "Streamlined documents in excel and PowerPoint using Visual Basic to decrease the number of hours it takes to produce both quantitative and qualitive metrics for upper management.",
+        "Created workflow documentation to assist with management of programs and turnover.",
+        "Performed 320 hours of career development and leadership training."
+      ]
+    },
+    {
+      "company": "United States Air Force",
+      "position": "Electrical Power Production Journeyman",
+      "website": "",
+      "startDate": "2016-11-15",
+      "endDate": "2020-11-15",
+      "summary": "",
+      "highlights": [
+        "Interpret data related to electrical power generating systems and aircraft arresting systems to prevent potential weapon systems failure.",
+        "Advise on problems installing and repairing electrical power production equipment and aircraft arresting systems.",
+        "Maintain records. Install and operate electrical power plants, distribution equipment, automatic transfer panels, and aircraft arresting systems.",
+        "Maintain and repair electrical power generating equipment, automatic transfer panels, and aircraft arresting systems."
+      ]
+    }
+  ], 
+  "volunteerx": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "729 Air Control Squadron Mission Supoort Award Tech of the Month",
+      "date": "2019-07",
+      "awarder": "729 ACS",
+      "summary": ""
+    },
+    {
+      "title": "729 Air Control Squadron Airman of the 3rd Quarter",
+      "date": "2019-07-1 to 2019-09-30",
+      "awarder": "729 ACS",
+      "summary": ""
+    },
+        {
+      "title": "552 Air Control Group Airman of the 3rd Quarter",
+      "date": "2019-07-1 to 2019-09-30",
+      "awarder": "552 ACG",
+      "summary": ""
+    },
+    {
+      "title": "552 Air Control Wing Airman of the 3rd Quarter",
+      "date": "2019-07-1 to 2019-09-30",
+      "awarder": "552 ACW",
+      "summary": ""
+    }
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
