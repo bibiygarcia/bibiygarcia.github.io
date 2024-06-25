@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CompletedArt/SquareArchesPhotoSoftLight.jpg
+image: img/CompletedArt/BannerCyberIke.png
 title: "Places You'll Go"
 date: 2020 - Present
 published: true
